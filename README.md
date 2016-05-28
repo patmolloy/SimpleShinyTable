@@ -2,7 +2,7 @@
 
 ## World Bank Population Indices 1960 - 2014 DataTable
    
-  This example shiny project uses data from the World Bank - country populations 1960 - 20014
+  This example shiny project uses data from the World Bank - country populations 1960 - 2014
   
   It uses the R package DT http://rstudio.github.io/DT/ which provides an R interface to the JavaScript library http://datatables.net
   
