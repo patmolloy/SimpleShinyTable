@@ -18,7 +18,7 @@ shinyUI(
       h4("Each column is sortable ascending/descending by clicking on the appropriate arrows"),
       h4("Pretty much all the formatting and control is provided directly by the DT package, making it very easy to use"),
       h4("The next obvious step is to plot selected data, but time does not permit (nor skill)"),
-    
+      h4("The github repo is here https://github.com/patmolloy/SimpleShinyTable"),
     
     # Create a new Row in the UI for selectInputs
     fluidRow(
