@@ -1,6 +1,8 @@
 # SimpleShinyTable
 
 ## World Bank Population Indices 1960 - 2014 DataTable
+
+### The hosted version of this needs a moment or two to load - please be patient, it does work!
    
   This example shiny project uses data from the World Bank - country populations 1960 - 2014
   
